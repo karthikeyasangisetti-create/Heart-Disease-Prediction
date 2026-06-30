@@ -118,7 +118,7 @@ Heart-Disease-Prediction
 
 ## Author
 
-**Karthik**
+**Karthikeya Sangisetti**
 
 AI & Machine Learning Internship
 
